@@ -1,6 +1,10 @@
 # my-win-11-setup
 Compilations of findings related to my Win 11 Setup
 
+## Debloating
+
+- [Best one so far](https://github.com/Raphire/Win11Debloat)
+
 ## kool things
 > sitting with a kitty
 
